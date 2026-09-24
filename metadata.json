@@ -1,0 +1,6 @@
+{
+  "name": "Movie Recommendation System",
+  "description": "An interactive movie recommendation system featuring content-based and collaborative filtering based on user ratings and genres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
